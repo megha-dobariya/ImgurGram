@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImgurGram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="title_hot">Hot</string>
+    <string name="title_top">Top</string>
+</resources>

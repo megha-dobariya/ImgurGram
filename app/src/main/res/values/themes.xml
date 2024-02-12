@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.ImgurGram" parent="Theme.Material3.DayNight.NoActionBar">-->
+    <style name="Base.Theme.ImgurGram" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Primary color brand -->
+         <item name="colorPrimary">@color/purple_200</item>
+         <item name="colorPrimaryVariant">@color/purple_700</item>
+         <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary color brand -->
+        <item name="colorSecondary">@color/purple_200</item>
+        <item name="colorOnSecondaryFixedVariant">@color/purple_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.ImgurGram" parent="Base.Theme.ImgurGram" />
+</resources>
